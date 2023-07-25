@@ -1,0 +1,16 @@
+server:
+  port: 8081
+#Github
+#Google
+
+spring:
+  security:
+    oauth2:
+      client:
+        registration:
+          github:
+            client-secret: bf4cbff950dbd412009304bcd73f5e82612b5512
+            client-id: c2a8113b5ac1c160c182
+          google:
+            client-id: 277826640313-s547mkh92crkvda6040mhkulds9pcf6i.apps.googleusercontent.com
+            client-secret: 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
